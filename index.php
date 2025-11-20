@@ -6,7 +6,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Extindustria — index</title>
   <!--Poner icono de la pagina web-->
-  <link rel="icon" href="img/Logo_Extindustria.svg" type="image/svg+xml" />
+  <link rel="icon" href="img/Logo_Extindustria.png" type="image/svg+xml" />
+     <!-- Open Graph -->
+    <meta property="og:title" content="Extindustria - Bienvenido" />
+    <meta property="og:description" content="Empresa de protección contra incendios y sistemas de seguridad desde un punto de vista global: Ingeniería, Instalación y Mantenimiento." />
+    <meta property="og:image" content="img/Logo_Extindustria.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="600" />
+    <meta property="og:url" content="https://extindustria.infinityfreeapp.com/" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Extindustria - Bienvenido" />
+    <meta name="twitter:description" content="Empresa de protección contra incendios y sistemas de seguridad desde un punto de vista global: Ingeniería, Instalación y Mantenimiento." />
+    <meta name="twitter:image" content="img/Logo_Extindustria.png" />
   <!-- Bootstrap CSS -->
   <link
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
@@ -1006,5 +1021,6 @@
   <!--llamar a js/script.js-->
   <script src="js/script.js"></script>
 </body>
+
 
 </html>
